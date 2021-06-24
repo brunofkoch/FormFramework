@@ -10,8 +10,8 @@ author: Pablo J. Santos --> @_jaysaints
 </connectionStrings>
 ````
 	+ Copie o codigo acima e cole dentro do aquivo app.config abaixo do bloco `<configSections>...</configSections>` 
-	+ No campo __Server=__ coloque o nome da suas instancia do SQL Server;  
-	+ No campo __Database=__ coloque o nome do seu banco de dados existente na instancia do SQL Server;
+	+ No campo Server= coloque o nome da suas instancia do SQL Server;  
+	+ No campo Database= coloque o nome do seu banco de dados existente na instancia do SQL Server;
 
 2. Na solução _FormFramework_ click com o lado direito do mouse e vá em `Adicionar>Item existente...`  insira todos os arquivos contido no repositório baixado;
 
