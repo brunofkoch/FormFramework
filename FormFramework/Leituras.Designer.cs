@@ -44,7 +44,7 @@ namespace FormFramework
             this.buttonRem1 = new System.Windows.Forms.Button();
             this.buttonSal1 = new System.Windows.Forms.Button();
             this.buttonAtu1 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.labelMod1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.textBox5p2 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
@@ -59,7 +59,7 @@ namespace FormFramework
             this.buttonRem2 = new System.Windows.Forms.Button();
             this.buttonSal2 = new System.Windows.Forms.Button();
             this.buttonAtu2 = new System.Windows.Forms.Button();
-            this.label13 = new System.Windows.Forms.Label();
+            this.labelMod2 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.textBox5p3 = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
@@ -74,7 +74,7 @@ namespace FormFramework
             this.buttonRem3 = new System.Windows.Forms.Button();
             this.buttonSal3 = new System.Windows.Forms.Button();
             this.buttonAtu3 = new System.Windows.Forms.Button();
-            this.label19 = new System.Windows.Forms.Label();
+            this.labelMod3 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.textBox5p4 = new System.Windows.Forms.TextBox();
             this.label20 = new System.Windows.Forms.Label();
@@ -89,7 +89,7 @@ namespace FormFramework
             this.buttonRem4 = new System.Windows.Forms.Button();
             this.buttonSal4 = new System.Windows.Forms.Button();
             this.buttonAtu4 = new System.Windows.Forms.Button();
-            this.label25 = new System.Windows.Forms.Label();
+            this.labelMod4 = new System.Windows.Forms.Label();
             this.labelIDV = new System.Windows.Forms.Label();
             this.labelVV = new System.Windows.Forms.Label();
             this.labelVVersao = new System.Windows.Forms.Label();
@@ -129,7 +129,7 @@ namespace FormFramework
             this.panel1.Controls.Add(this.buttonRem1);
             this.panel1.Controls.Add(this.buttonSal1);
             this.panel1.Controls.Add(this.buttonAtu1);
-            this.panel1.Controls.Add(this.label2);
+            this.panel1.Controls.Add(this.labelMod1);
             this.panel1.Location = new System.Drawing.Point(15, 64);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(637, 79);
@@ -243,14 +243,14 @@ namespace FormFramework
             this.buttonAtu1.Text = "Atualizar";
             this.buttonAtu1.UseVisualStyleBackColor = true;
             // 
-            // label2
+            // labelMod1
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(302, 8);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "label2";
+            this.labelMod1.AutoSize = true;
+            this.labelMod1.Location = new System.Drawing.Point(302, 8);
+            this.labelMod1.Name = "labelMod1";
+            this.labelMod1.Size = new System.Drawing.Size(35, 13);
+            this.labelMod1.TabIndex = 0;
+            this.labelMod1.Text = "label2";
             // 
             // panel2
             // 
@@ -273,7 +273,7 @@ namespace FormFramework
             this.panel2.Controls.Add(this.buttonRem2);
             this.panel2.Controls.Add(this.buttonSal2);
             this.panel2.Controls.Add(this.buttonAtu2);
-            this.panel2.Controls.Add(this.label13);
+            this.panel2.Controls.Add(this.labelMod2);
             this.panel2.Location = new System.Drawing.Point(15, 156);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(637, 79);
@@ -387,14 +387,14 @@ namespace FormFramework
             this.buttonAtu2.Text = "Atualizar";
             this.buttonAtu2.UseVisualStyleBackColor = true;
             // 
-            // label13
+            // labelMod2
             // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(302, 8);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(41, 13);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "label13";
+            this.labelMod2.AutoSize = true;
+            this.labelMod2.Location = new System.Drawing.Point(302, 8);
+            this.labelMod2.Name = "labelMod2";
+            this.labelMod2.Size = new System.Drawing.Size(41, 13);
+            this.labelMod2.TabIndex = 0;
+            this.labelMod2.Text = "label13";
             // 
             // panel3
             // 
@@ -417,7 +417,7 @@ namespace FormFramework
             this.panel3.Controls.Add(this.buttonRem3);
             this.panel3.Controls.Add(this.buttonSal3);
             this.panel3.Controls.Add(this.buttonAtu3);
-            this.panel3.Controls.Add(this.label19);
+            this.panel3.Controls.Add(this.labelMod3);
             this.panel3.Location = new System.Drawing.Point(15, 248);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(637, 79);
@@ -531,14 +531,14 @@ namespace FormFramework
             this.buttonAtu3.Text = "Atualizar";
             this.buttonAtu3.UseVisualStyleBackColor = true;
             // 
-            // label19
+            // labelMod3
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(302, 8);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(41, 13);
-            this.label19.TabIndex = 0;
-            this.label19.Text = "label19";
+            this.labelMod3.AutoSize = true;
+            this.labelMod3.Location = new System.Drawing.Point(302, 8);
+            this.labelMod3.Name = "labelMod3";
+            this.labelMod3.Size = new System.Drawing.Size(41, 13);
+            this.labelMod3.TabIndex = 0;
+            this.labelMod3.Text = "label19";
             // 
             // panel4
             // 
@@ -561,7 +561,7 @@ namespace FormFramework
             this.panel4.Controls.Add(this.buttonRem4);
             this.panel4.Controls.Add(this.buttonSal4);
             this.panel4.Controls.Add(this.buttonAtu4);
-            this.panel4.Controls.Add(this.label25);
+            this.panel4.Controls.Add(this.labelMod4);
             this.panel4.Location = new System.Drawing.Point(15, 341);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(637, 79);
@@ -675,32 +675,32 @@ namespace FormFramework
             this.buttonAtu4.Text = "Atualizar";
             this.buttonAtu4.UseVisualStyleBackColor = true;
             // 
-            // label25
+            // labelMod4
             // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(302, 8);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(41, 13);
-            this.label25.TabIndex = 0;
-            this.label25.Text = "label25";
+            this.labelMod4.AutoSize = true;
+            this.labelMod4.Location = new System.Drawing.Point(302, 8);
+            this.labelMod4.Name = "labelMod4";
+            this.labelMod4.Size = new System.Drawing.Size(41, 13);
+            this.labelMod4.TabIndex = 0;
+            this.labelMod4.Text = "label25";
             // 
             // labelIDV
             // 
             this.labelIDV.AutoSize = true;
             this.labelIDV.Location = new System.Drawing.Point(47, 33);
             this.labelIDV.Name = "labelIDV";
-            this.labelIDV.Size = new System.Drawing.Size(41, 13);
+            this.labelIDV.Size = new System.Drawing.Size(53, 13);
             this.labelIDV.TabIndex = 22;
-            this.labelIDV.Text = "label26";
+            this.labelIDV.Text = "IDVeiculo";
             // 
             // labelVV
             // 
             this.labelVV.AutoSize = true;
             this.labelVV.Location = new System.Drawing.Point(153, 33);
             this.labelVV.Name = "labelVV";
-            this.labelVV.Size = new System.Drawing.Size(41, 13);
+            this.labelVV.Size = new System.Drawing.Size(40, 13);
             this.labelVV.TabIndex = 23;
-            this.labelVV.Text = "label27";
+            this.labelVV.Text = "Versão";
             // 
             // labelVVersao
             // 
@@ -759,7 +759,7 @@ namespace FormFramework
         private System.Windows.Forms.Button buttonRem1;
         private System.Windows.Forms.Button buttonSal1;
         private System.Windows.Forms.Button buttonAtu1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label labelMod1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.TextBox textBox5p2;
         private System.Windows.Forms.Label label8;
@@ -774,7 +774,7 @@ namespace FormFramework
         private System.Windows.Forms.Button buttonRem2;
         private System.Windows.Forms.Button buttonSal2;
         private System.Windows.Forms.Button buttonAtu2;
-        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label labelMod2;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.TextBox textBox5p3;
         private System.Windows.Forms.Label label14;
@@ -789,7 +789,7 @@ namespace FormFramework
         private System.Windows.Forms.Button buttonRem3;
         private System.Windows.Forms.Button buttonSal3;
         private System.Windows.Forms.Button buttonAtu3;
-        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label labelMod3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.TextBox textBox5p4;
         private System.Windows.Forms.Label label20;
@@ -804,7 +804,7 @@ namespace FormFramework
         private System.Windows.Forms.Button buttonRem4;
         private System.Windows.Forms.Button buttonSal4;
         private System.Windows.Forms.Button buttonAtu4;
-        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label labelMod4;
         private System.Windows.Forms.Label labelIDV;
         private System.Windows.Forms.Label labelVV;
         private System.Windows.Forms.Label labelVVersao;

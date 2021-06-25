@@ -19,7 +19,8 @@ namespace FormFramework
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+            // Chama a classe ModProva para criar as modalidades de prova.
+            new ModProva();            
         }
 
         private void Login_Close(object sender, EventArgs e)
