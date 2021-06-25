@@ -125,6 +125,10 @@
     <Compile Include="Migrations\202106241744426_NovasClasses.designer.cs">
       <DependentUpon>202106241744426_NovasClasses.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202106251238420_Update_ModProvas.cs" />
+    <Compile Include="Migrations\202106251238420_Update_ModProvas.designer.cs">
+      <DependentUpon>202106251238420_Update_ModProvas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ModProva.cs" />
     <Compile Include="MyContext.cs" />
@@ -168,6 +172,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202106241744426_NovasClasses.resx">
       <DependentUpon>202106241744426_NovasClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202106251238420_Update_ModProvas.resx">
+      <DependentUpon>202106251238420_Update_ModProvas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
